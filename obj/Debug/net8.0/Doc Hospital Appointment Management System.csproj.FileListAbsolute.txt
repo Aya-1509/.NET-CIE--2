@@ -1,0 +1,30 @@
+/home/amtics/Desktop/Doc Hospital Appointment Management System/bin/Debug/net8.0/appsettings.Development.json
+/home/amtics/Desktop/Doc Hospital Appointment Management System/bin/Debug/net8.0/appsettings.json
+/home/amtics/Desktop/Doc Hospital Appointment Management System/bin/Debug/net8.0/Doc Hospital Appointment Management System.staticwebassets.runtime.json
+/home/amtics/Desktop/Doc Hospital Appointment Management System/bin/Debug/net8.0/Doc Hospital Appointment Management System
+/home/amtics/Desktop/Doc Hospital Appointment Management System/bin/Debug/net8.0/Doc Hospital Appointment Management System.deps.json
+/home/amtics/Desktop/Doc Hospital Appointment Management System/bin/Debug/net8.0/Doc Hospital Appointment Management System.runtimeconfig.json
+/home/amtics/Desktop/Doc Hospital Appointment Management System/bin/Debug/net8.0/Doc Hospital Appointment Management System.dll
+/home/amtics/Desktop/Doc Hospital Appointment Management System/bin/Debug/net8.0/Doc Hospital Appointment Management System.pdb
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.GeneratedMSBuildEditorConfig.editorconfig
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.AssemblyInfoInputs.cache
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.AssemblyInfo.cs
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.csproj.CoreCompileInputs.cache
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.MvcApplicationPartsAssemblyInfo.cache
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.RazorAssemblyInfo.cache
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.RazorAssemblyInfo.cs
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/staticwebassets.build.json
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/staticwebassets.development.json
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/staticwebassets/msbuild.Doc Hospital Appointment Management System.Microsoft.AspNetCore.StaticWebAssets.props
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/staticwebassets/msbuild.build.Doc Hospital Appointment Management System.props
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Doc Hospital Appointment Management System.props
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Doc Hospital Appointment Management System.props
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/staticwebassets.pack.json
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/scopedcss/bundle/Doc Hospital Appointment Management System.styles.css
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/scopedcss/projectbundle/Doc Hospital Appointment Management System.bundle.scp.css
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.dll
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/refint/Doc Hospital Appointment Management System.dll
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.pdb
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/Doc Hospital Appointment Management System.genruntimeconfig.cache
+/home/amtics/Desktop/Doc Hospital Appointment Management System/obj/Debug/net8.0/ref/Doc Hospital Appointment Management System.dll
